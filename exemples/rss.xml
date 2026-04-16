@@ -1,0 +1,9 @@
+<rss version="2.0">
+  <channel>
+    <title>Feed de Fotos</title>
+    <item>
+      <title>imagem1.jpg</title>
+      <enclosure url="https://drive.google.com/uc?export=view&id=123" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
