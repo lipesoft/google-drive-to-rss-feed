@@ -58,8 +58,10 @@ Google Drive → Google Sheets → Google Apps Script → RSS XML → Neonews
 src/
 ├── listarFotos.gs
 ├── gerarRSS.gs
+
 docs/
 └── guia-de-implementacao.pdf
+
 examples/
 └── rss.xml
 
@@ -101,7 +103,7 @@ examples/
   <link>https://drive.google.com/...</link>
   <enclosure url="https://drive.google.com/uc?export=view&id=FILE_ID" type="image/jpeg" />
 </item>
-
+```
 ---
 
 ## Automatização
