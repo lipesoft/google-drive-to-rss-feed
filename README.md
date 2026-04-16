@@ -53,20 +53,6 @@ Google Drive → Google Sheets → Google Apps Script → RSS XML → Neonews
 
 ---
 
-## Estrutura do Projeto
-
-src/
-├── listarFotos.gs
-├── gerarRSS.gs
-
-docs/
-└── guia-de-implementacao.pdf
-
-examples/
-└── rss.xml
-
----
-
 ## Configuração
 
 ### 1. Google Drive
