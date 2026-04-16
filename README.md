@@ -129,4 +129,4 @@ Google Drive → Google Sheets → Google Apps Script → RSS XML → Neonews
 
 Filipe Rodrigues
 
-LinkedIn: https://www.linkedin.com/in/filipe-rodrigues-aa220022b
+LinkedIn: https://www.linkedin.com/in/filipe-rodrigues-a79809386
